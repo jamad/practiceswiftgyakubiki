@@ -31,8 +31,6 @@ class ViewController: UIViewController {
         label.layer.masksToBounds=true          // round corner on
         label.layer.cornerRadius=20             // round corner radius
         
-        
-        
     }
 
     override func didReceiveMemoryWarning() {
