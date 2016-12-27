@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         view.addSubview(label)
         view.backgroundColor=UIColor.cyan
         
+        
         label.text="helloWorld"
         label.textAlignment=NSTextAlignment.center
         label.frame.size=CGSize(width: 100, height: 50) // size first
